@@ -11,7 +11,7 @@ pipeline {
 		NEXUS_PASS = 'admin@123'
 		RELEASE_REPO = 'Jenkins-ci'
 		CENTRAL_REPO = 'Jenkins-central'
-		NEXUSIP = '172.31.81.145'
+		NEXUSIP = '172.31.83.102'
 		NEXUSPORT = '8081'
 		NEXUS_GRP_REPO = 'Maven-group'
         NEXUS_LOGIN = 'nexuslogin'
